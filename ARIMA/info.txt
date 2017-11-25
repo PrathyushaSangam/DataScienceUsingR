@@ -1,0 +1,2 @@
+Work done as a part of academic assignment, includes timeseries analysis of UCI's household electricity consumption dataset
+This folder contains files: 1. Report 2. R Code
